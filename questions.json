@@ -1,0 +1,381 @@
+{
+  "heading": "Singular and Plural Nouns",
+  "topics": [
+    {
+      "heading": "Singular and Plural Nouns",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Select the correct letter that make the following word a plural -<span style='color: blue; font-weight: bold;'> box</span>  <br> <img width='150px' src='./assests/images/question/1.png'>",
+          "options": [
+            {
+              "text": "-s"
+            },
+            {
+              "text": "-es"
+            },
+            {
+              "text": "-ies"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When we want to make the word \"box\" plural, we add \"-es\" to the end, resulting in \"boxes.\" So, the correct answer is option b) -es."
+        },
+        {
+          "questionNo": 2,
+          "question": "Select the correct letter that make the following word a plural - <span style='color: blue; font-weight: bold;'> baby </span> <br> <img width='150px' src='./assests/images/question/2.png'>",
+          "options": [
+            {
+              "text": "-s"
+            },
+            {
+              "text": "-es"
+            },
+            {
+              "text": "-ies"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The word ‘baby’ ends with a consonant (b) followed by a ‘y’. In such a case, the ‘y’ is replaced with ‘-ies’ to form the plural - babies."
+        },
+        {
+          "questionNo": 3,
+          "question": "Select the correct letter that make the following word a plural - <span style='color: blue; font-weight: bold;'> potato </span> <br> <img width='150px' src='./assests/images/question/3.png'>",
+          "options": [
+            {
+              "text": "-s"
+            },
+            {
+              "text": "-es"
+            },
+            {
+              "text": "-ies"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The plural of \"potato\" is formed by adding \"-es\" to the end, resulting in \"potatoes.\" Therefore, the correct answer is option b) -es."
+        },
+        {
+          "questionNo": 4,
+          "question": "Select the correct letter that make the following word a plural - <span style='color: blue; font-weight: bold;'>lady</span> <br> <img width='150px' src='./assests/images/question/4.png'>",
+          "options": [
+            {
+              "text": "-s"
+            },
+            {
+              "text": "-es"
+            },
+            {
+              "text": "-ies"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The plural of \"lady\" is formed by changing the 'y' to 'i' and adding \"-es,\" resulting in \"ladies.\" Therefore, the correct answer is option c) -ies."
+        },
+        {
+          "questionNo": 5,
+          "question": "Select the correct letter that make the following word a plural -<span style='color: blue; font-weight: bold;'> bench </span> <br> <img width='150px' src='./assests/images/question/5.png'>",
+          "options": [
+            {
+              "text": "-s"
+            },
+            {
+              "text": "-es"
+            },
+            {
+              "text": "-ies"
+            },
+            {
+              "text": "None of the above"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When forming the plural of \"bench,\" we add \"-es\" to the end, resulting in \"benches.\" Therefore, the correct answer is option b) -es."
+        },
+        {
+          "questionNo": 6,
+          "question": "Complete the sentence with the correct plural. <br> There were five ____ in the garden. (rose) <br> <img width='150px' src='./assests/images/question/6.png'>",
+          "options": [
+            {
+              "text": "roses"
+            },
+            {
+              "text": "rose"
+            },
+            {
+              "text": "rosed"
+            },
+            {
+              "text": "rosen"
+            }
+          ],
+          "answer": 0,
+          "explanation": "When referring to multiple flowers of the type \"rose,\" we use the plural form \"roses.\" Therefore, the correct answer is \"roses.\""
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the correct plural form to complete the sentence. <br> She bought three new _____. (dress) <br> <img width='150px' src='./assests/images/question/7.png'>",
+          "options": [
+            {
+              "text": "dress"
+            },
+            {
+              "text": "dresses"
+            },
+            {
+              "text": "dressing"
+            },
+            {
+              "text": "dressed"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When indicating more than one piece of clothing, we use the plural form \"dresses.\" So, the correct answer is \"dresses.\""
+        },
+        {
+          "questionNo": 8,
+          "question": "Complete the sentence with the correct plural. <br> There are seven ____ in the sky. (star) <br> <img width='150px' src='./assests/images/question/8.png'>",
+          "options": [
+            {
+              "text": "star"
+            },
+            {
+              "text": "stars"
+            },
+            {
+              "text": "starrs"
+            },
+            {
+              "text": "starry"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When speaking about multiple celestial bodies of the type \"star,\" we use the plural form \"stars.\" Hence, the correct answer is \"stars.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "Select the appropriate plural to complete the sentence. <br> The recipe calls for four ripe _____. <br> <img width='150px' src='./assests/images/question/9.png'>",
+          "options": [
+            {
+              "text": "tomato"
+            },
+            {
+              "text": "tomatos"
+            },
+            {
+              "text": "tomatoes"
+            },
+            {
+              "text": "tomati"
+            }
+          ],
+          "answer": 2,
+          "explanation": "When referring to more than one fruit of the type \"tomato,\" we use the plural form \"tomatoes.\" Thus, the correct answer is \"tomatoes.\""
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank with the correct plural form. <br> He owns five vintage _____. <br> <img width='150px' src='./assests/images/question/10.png'>",
+          "options": [
+            {
+              "text": "car"
+            },
+            {
+              "text": "cars"
+            },
+            {
+              "text": "car's"
+            },
+            {
+              "text": "carss"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When indicating multiple automobiles, we use the plural form \"cars.\" Therefore, the correct answer is \"cars.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "Is the noun in bold singular or plural?<br>  The <span style='color: blue; font-weight: bold;'>dogs</span> bark loudly in the park. <br> <img width='150px' src='./assests/images/question/11.png'>",
+          "options": [
+            {
+              "text": "singular"
+            },
+            {
+              "text": "plural"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The noun <span style='color: blue; font-weight: bold;'>dogs</span> is plural because it refers to more than one dog."
+        },
+        {
+          "questionNo": 12,
+          "question": "Is the noun in bold singular or plural?<br>  The <span style='color: blue; font-weight: bold;'>book</span> on the shelf is torn. <br> <img width='150px' src='./assests/images/question/12.png'>",
+          "options": [
+            {
+              "text": "singular"
+            },
+            {
+              "text": "plural"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The noun in bold is singular because it refers to only one book."
+        },
+     
+        {
+          "questionNo": 13,
+          "question": "Is the noun in bold singular or plural?<br>  Many <span style='color: blue; font-weight: bold;'>students</span> attended the seminar.<br> <img width='150px' src='./assests/images/question/13.png'>",
+          "options": [
+            {
+              "text": "singular"
+            },
+            {
+              "text": "plural"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The noun <span style='color: blue; font-weight: bold;'>students</span> is plural because it refers to more than one student."
+        },
+        {
+          "questionNo": 14,
+          "question": "Is the noun in bold singular or plural?<br>  The <span style='color: blue; font-weight: bold;'>child</span> ran across the field.<br> <img width='150px' src='./assests/images/question/14.png'>",
+          "options": [
+            {
+              "text": "singular"
+            },
+            {
+              "text": "plural"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The noun <span style='color: blue; font-weight: bold;'>child</span> is singular because it refers to only one child."
+        },
+        {
+          "questionNo": 15,
+          "question": "Is the noun in in bold singular or plural?<br>  My <span style='color: blue; font-weight: bold;'>friends</span> and I went to the beach.<br> <img width='150px' src='./assests/images/question/15.png'>",
+          "options": [
+            {
+              "text": "singular"
+            },
+            {
+              "text": "plural"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The noun <span style='color: blue; font-weight: bold;'>friends</span> is plural because it refers to more than one friend."
+        },
+        {
+          "questionNo": 16,
+          "question": "The zoo had many exotic ____ on display.<br> <img width='150px' src='./assests/images/question/16.png'>",
+          "options": [
+            {
+              "text": "species"
+            },
+            {
+              "text": "specieses"
+            },
+            {
+              "text": "speece"
+            },
+            {
+              "text": "speecies"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Species\" remains unchanged in its plural form. It's an irregular plural noun."
+        },
+        {
+          "questionNo": 17,
+          "question": "She found two tiny ____ scurrying across the kitchen floor.<br> <img width='150px' src='./assests/images/question/17.png'>",
+          "options": [
+            {
+              "text": "mouses"
+            },
+            {
+              "text": "mice"
+            },
+            {
+              "text": "mices"
+            },
+            {
+              "text": "miceses"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct plural form of \"mouse\" is \"mice.\" This is an irregular plural noun where the spelling changes from \"mouse\" to \"mice.\""
+        },
+        {
+          "questionNo": 18,
+          "question": "The farmer had several ____ grazing in the pasture.<br> <img width='150px' src='./assests/images/question/18.png'> ",
+          "options": [
+            {
+              "text": "gooses"
+            },
+            {
+              "text": "goose"
+            },
+            {
+              "text": "geese"
+            },
+            {
+              "text": "geeses"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct plural form of \"goose\" is \"geese.\" This is an irregular plural noun where the spelling changes from \"goose\" to \"geese.\""
+        },
+        {
+          "questionNo": 19,
+          "question": "She found a pile of colourful ____ in her grandmother's attic.<br> <img width='150px' src='./assests/images/question/19.png'>",
+          "options": [
+            {
+              "text": "scarf"
+            },
+            {
+              "text": "scarfs"
+            },
+            {
+              "text": "scarves"
+            },
+            {
+              "text": "scarvens"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct plural form of \"scarf\" is \"scarves.\" This is an irregular plural noun where the spelling changes from \"scarf\" to \"scarves.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "There were three large ____ on the road.<br> <img width='150px' src='./assests/images/question/20.png'>",
+          "options": [
+            {
+              "text": "oxen"
+            },
+            {
+              "text": "oxes"
+            },
+            {
+              "text": "oxs"
+            },
+            {
+              "text": "oxenies"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The correct plural form of \"ox\" is \"oxen.\" This is an irregular plural noun where the spelling changes from \"ox\" to \"oxen.\""
+        }
+      ]
+    }
+  ]
+}
